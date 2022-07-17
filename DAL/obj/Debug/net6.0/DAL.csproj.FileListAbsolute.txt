@@ -1,0 +1,15 @@
+D:\Naresh Bhoyar\Source\Final_APi\SmartEmployee\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\Naresh Bhoyar\Source\Final_APi\SmartEmployee\DAL\bin\Debug\net6.0\DAL.dll
+D:\Naresh Bhoyar\Source\Final_APi\SmartEmployee\DAL\bin\Debug\net6.0\DAL.pdb
+D:\Naresh Bhoyar\Source\Final_APi\SmartEmployee\DAL\bin\Debug\net6.0\Entity.dll
+D:\Naresh Bhoyar\Source\Final_APi\SmartEmployee\DAL\bin\Debug\net6.0\Entity.pdb
+D:\Naresh Bhoyar\Source\Final_APi\SmartEmployee\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Naresh Bhoyar\Source\Final_APi\SmartEmployee\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Naresh Bhoyar\Source\Final_APi\SmartEmployee\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Naresh Bhoyar\Source\Final_APi\SmartEmployee\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\Naresh Bhoyar\Source\Final_APi\SmartEmployee\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Naresh Bhoyar\Source\Final_APi\SmartEmployee\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\Naresh Bhoyar\Source\Final_APi\SmartEmployee\DAL\obj\Debug\net6.0\DAL.dll
+D:\Naresh Bhoyar\Source\Final_APi\SmartEmployee\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\Naresh Bhoyar\Source\Final_APi\SmartEmployee\DAL\obj\Debug\net6.0\DAL.pdb
+D:\Naresh Bhoyar\Source\Final_APi\SmartEmployee\DAL\obj\Debug\net6.0\ref\DAL.dll
